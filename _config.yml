@@ -29,9 +29,10 @@ url: "https://danieleastman.com" # the base hostname & protocol for your site, e
 github_username:  danweast
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
