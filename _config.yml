@@ -22,8 +22,8 @@ title: Daniel Eastman's Website
 author: Daniel Eastman # name of site's author
 email: mail@danieleastman.com
 description: #>- # this means to ignore newlines until "baseurl:"
-  Daniel Eastman's personal website.
-  Contains my projects and other interests.
+  "Daniel Eastman's personal website."
+  #Contains my projects and other interests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieleastman.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  danweast
